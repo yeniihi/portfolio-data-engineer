@@ -21,6 +21,7 @@ Kafka에서 전달된 데이터를 수신 및 변환하여 Snowflake에 적재�
 
 ## 📁 구성 파일
 - `README.md`: 데이터 흐름 및 설계 요약
+- `pipeline 폴더`: 파이프라인 구축을 위한 프로시저, 테이블 및 작업 생성문과 Task Graph 구조도
 - `call_loop_procedure.sql`: 파라미터를 매월 말일로 설정하여 프로시저를 호출하는 루프 프로시저
 - `data_profiling_procedure.sql`: 데이터 프로파일링 결과 적재 프로시저
 - `data_profiling_table_ddl.sql`: 데이터 프로파일링 결과 적재 테이블 생성문
