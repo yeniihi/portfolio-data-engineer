@@ -10,7 +10,7 @@ Kafka, Snowflake, PostgreSQL 기반의 파이프라인 설계 및 운영을 경�
 ## 🔧 보유 기술
 
 - **데이터 파이프라인 및 적재**: Kafka, Snowflake, PostgreSQL
-- **데이터 모델링 및 품질 관리**: DA#, SMETA, Oracle SQL
+- **데이터 모델링 및 품질 관리**: DA#, SMETA
 - **분석 및 시각화**: Python, Pandas, Tableau, SQL
 - **머신러닝/딥러닝 프로젝트**: Scikit-learn, PyTorch, Surprise
 - **협업 및 문서화**: Git, Figma, Google Docs
@@ -18,9 +18,9 @@ Kafka, Snowflake, PostgreSQL 기반의 파이프라인 설계 및 운영을 경�
 ## 🗂 주요 프로젝트
 
 ### 1. 퍼시스 CRM 고도화
-- Kafka에서 수신한 데이터를 Snowflake에 자동 적재
+- Kafka에서 수신한 데이터를 Snowflake에 배치 적재
 - 저장 프로시저 및 Task Graph를 활용한 데이터 파이프라인 자동화
-- 마트 설계 및 Tableau 대응 구조 개선
+- 마트 설계 및 Tableau 성능 개선
 
 ### 2. Brawlstats 실시간 수집 및 분석
 - API 연동 데이터를 Kafka 기반 파이프라인으로 수집 및 PostgreSQL 적재
@@ -37,6 +37,6 @@ Kafka, Snowflake, PostgreSQL 기반의 파이프라인 설계 및 운영을 경�
 
 ## 📫 연락처
 
-- 📧 이메일: your.email@example.com
+- 📧 이메일: dpdmsye@gmail.com
 - 🐙 GitHub: [https://github.com/yeniihi](https://github.com/yeniihi)
 
