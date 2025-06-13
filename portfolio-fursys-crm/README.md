@@ -20,7 +20,9 @@ Kafka에서 전달된 데이터를 수신 및 변환하여 Snowflake에 적재�
 - 분석 데이터 적재 구조 개선으로 대시보드 응답 속도 안정화
 
 ## 📁 구성 파일
-- `pipeline_overview.md`: 데이터 흐름 및 설계 요약
-- `snowflake_proc.sql`: 프로시저 예시
-- `task_graph_diagram.png`: 적재 자동화 구조도
+- `README.md`: 데이터 흐름 및 설계 요약
+- `call_loop_procedure.sql`: 파라미터를 매월 말일로 설정하여 프로시저를 호출하는 루프 프로시저
+- `data_profiling_procedure.sql`: 데이터 프로파일링 결과 적재 프로시저
+- `data_profiling_table_ddl.sql`: 데이터 프로파일링 결과 적재 테이블 생성문
+- `get_procedure_ddl_procedure.sql`: 모든 저장 프로시저 생성문을 추출하는 프로시저 (업무기록용)
 
