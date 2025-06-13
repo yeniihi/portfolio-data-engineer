@@ -13,7 +13,7 @@ Kafka, Snowflake, PostgreSQL 기반의 파이프라인 설계 및 운영을 경�
 - **데이터 모델링 및 품질 관리**: DA#, SMETA
 - **분석 및 시각화**: Python, Pandas, Tableau, SQL
 - **머신러닝/딥러닝 프로젝트**: Scikit-learn, PyTorch, Surprise
-- **협업 및 문서화**: Git, Figma, Google Docs
+- **협업 및 문서화**: Git, Figma, Google Docs, Teams, Flex
 
 ## 🗂 주요 프로젝트
 
