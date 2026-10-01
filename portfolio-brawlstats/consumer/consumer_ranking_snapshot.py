@@ -4,7 +4,7 @@ import psycopg
 import json
 from datetime import datetime
 
-conn = psycopg.connect("dbname=brawlstars user=postgres password=Postgres!120 host=localhost port=5432")
+conn = psycopg.connect("dbname=brawlstars user=postgres password=**** host=localhost port=5432")
 cursor = conn.cursor()
 cursor.execute("SET search_path TO brawlstars;")
 
